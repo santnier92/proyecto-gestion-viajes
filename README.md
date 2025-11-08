@@ -14,24 +14,23 @@ Haz clic aquí para probar la aplicación
 
 📸 Vista Previa de la Aplicación
 
-<table>
-<tr>
-<td align="center"><strong>1. Inicio de Sesión</strong></td>
-<td align="center"><strong>2. Dashboard (Mis Viajes)</strong></td>
-</tr>
-<tr>
-<td><img src="https://www.google.com/search?q=https://i.imgur.com/gYlH3qf.png" alt="Pantalla de Login" width="400"/></td>
-<td><img src="https://www.google.com/search?q=https://i.imgur.com/b9JtWpG.png" alt="Dashboard de Viajes" width="400"/></td>
-</tr>
-<tr>
-<td align="center"><strong>3. Crear Viaje (Modal)</strong></td>
-<td align="center"><strong>4. Itinerario (Plantilla)</strong></td>
-</tr>
-<tr>
-<td><img src="https://www.google.com/search?q=https://i.imgur.com/sKxXFwD.png" alt="Formulario para crear un viaje" width="400"/></td>
-<td><img src="https://www.google.com/search?q=https://i.imgur.com/o1QYn2e.png" alt="Pantalla de Itinerario" width="400"/></td>
-</tr>
-</table>
+Aquí puedes ver el flujo principal de la aplicación que ha sido implementado.
+
+1. Inicio de Sesión y Registro
+
+El usuario puede iniciar sesión o navegar para crear una nueva cuenta.
+
+2. Dashboard (Mis Viajes)
+
+Una vez dentro, el usuario ve su panel principal con los viajes que ha creado.
+
+3. Crear Viaje (Modal)
+
+Al hacer clic en el botón "+", el usuario puede rellenar un formulario para añadir un nuevo viaje.
+
+4. Itinerario (Plantilla)
+
+Al hacer clic en un viaje, el usuario es llevado a la pantalla de itinerario (actualmente una plantilla funcional).
 
 ✨ Características Implementadas (Fase 3)
 
